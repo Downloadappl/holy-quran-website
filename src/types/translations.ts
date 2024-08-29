@@ -1,4 +1,4 @@
-export type Locale = "en-US" | "fr" | "ar";
+export type Locale = "ar";
 
 export type TranslationMessage =
   | "app.holy-quran"
