@@ -1,15 +1,13 @@
 {
   "app.holy-quran": "القرآن الكريم",
-  "app.search-label": "ماذا تريد أن تقرأ؟",
+  "app.search-label": "بحث عن سورة...",
   "app.search": "إبحث",
-  "app.network-issues": "مشكلة اتصال",
-  "app.not-found": "غير موجود",
+  "app.network-issues": "حدث خطا حاول مجددا",
+  "app.not-found": "غير متوفر حاول مجددا",
 
-  "sidebar.choose-language": "تغيير اللغة",
   "sidebar.home": "الصفحة الرئيسية",
   "sidebar.reciters": "القراء",
   "sidebar.about": "من نحن",
-  "sidebar.feedback": "آرائكم",
 
   "sourate.edition-label": "الإصدار",
   "footer.title": "القرآن الكريم",
